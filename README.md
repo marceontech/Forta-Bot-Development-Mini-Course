@@ -11,3 +11,12 @@ This mini course is an Introduction to Forta Detection Bots development and its 
 [Lesson 3: The Pulse of the Blockchain: Smart Contracts, the EVM, and Event Logs](https://theblockchainsecuritymonk.substack.com/p/lesson-3-the-pulse-of-the-blockchain)
 
 [Lesson 4: Your First Forta Agent: Installing the SDK and Writing Your First Bot](https://theblockchainsecuritymonk.substack.com/p/lesson-4-your-first-forta-agent-installing)
+
+[Lesson 5: Listening to Logs: Detecting ERC-20 Transfers in Forta Agents](https://theblockchainsecuritymonk.substack.com/p/lesson-5-listening-to-logs-detecting)
+
+[Lesson 6: Tracking Performance: Gas Usage, Uptime, and Reliability in Forta Bots](https://theblockchainsecuritymonk.substack.com/p/lesson-6-tracking-performance-gas)
+
+[]()
+
+[]()
+
