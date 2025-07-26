@@ -16,7 +16,14 @@ This mini course is an Introduction to Forta Detection Bots development and its 
 
 [Lesson 6: Tracking Performance: Gas Usage, Uptime, and Reliability in Forta Bots](https://theblockchainsecuritymonk.substack.com/p/lesson-6-tracking-performance-gas)
 
+[Lesson 7: Routing Forta Alerts to Slack, Telegram and Incident Alerting tools](https://theblockchainsecuritymonk.substack.com/p/lesson-7-routing-forta-alerts-to)
+
+[Lesson 8: Forta as Threat Intelligence (Accessing the Global Alert Feed)](https://theblockchainsecuritymonk.substack.com/p/lesson-8-forta-as-threat-intelligence)
+
+[]()
+
 []()
 
 []()
 
+[]()
