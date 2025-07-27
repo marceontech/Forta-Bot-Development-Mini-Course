@@ -20,7 +20,7 @@ This mini course is an Introduction to Forta Detection Bots development and its 
 
 [Lesson 8: Forta as Threat Intelligence (Accessing the Global Alert Feed)](https://theblockchainsecuritymonk.substack.com/p/lesson-8-forta-as-threat-intelligence)
 
-[]()
+[Lesson 9: How (and Why) to Run Your Own Forta Scan Node](https://theblockchainsecuritymonk.substack.com/p/lesson-9-running-your-own-forta-scan)
 
 []()
 
