@@ -22,7 +22,7 @@ This mini course is an Introduction to Forta Detection Bots development and its 
 
 [Lesson 9: How (and Why) to Run Your Own Forta Scan Node](https://theblockchainsecuritymonk.substack.com/p/lesson-9-running-your-own-forta-scan)
 
-[]()
+[Lesson 10: CI/CD for Forta Bots (Automating Tests & Deployments)](https://theblockchainsecuritymonk.substack.com/p/lesson-10-cicd-for-forta-bots-automating)
 
 []()
 
