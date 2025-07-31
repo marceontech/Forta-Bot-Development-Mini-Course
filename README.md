@@ -32,9 +32,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 12: Alert Routing (From Bot to Slack, Discord and SIEM)](https://theblockchainsecuritymonk.substack.com/p/lesson-12-alert-routing-from-bot)
 
-[]()
+[Lesson 13: Monitoring Your Forta Bots (Uptime, Performance, and Gas Efficiency)](https://theblockchainsecuritymonk.substack.com/p/lesson-13-monitoring-your-forta-bots)
 
-[]()
+[Lesson 14: Bot Lifecycle and Versioning (Managing Your Agents Over Time)](https://theblockchainsecuritymonk.substack.com/p/lesson-14-bot-lifecycle-and-versioning)
 
 []()
 
