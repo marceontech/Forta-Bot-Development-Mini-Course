@@ -1,5 +1,9 @@
 # Forta-Bot-Development-Mini-Course
-This mini course is an Introduction to Forta Detection Bots development and its relevance in blockchain security
+This mini course is an Introduction to Forta Detection Bots development and its relevance in blockchain security.
+
+The main source used for this course has been taken from [FORTA DOCS](https://docs.forta.network/)
+
+[]()
 
 ![Lesson Thumbnail](https://substackcdn.com/image/fetch/$s_!E2Wt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19c5e90e-e1a0-4edd-9273-bee0ce2e6d54_1200x628.png)
 
@@ -23,6 +27,18 @@ This mini course is an Introduction to Forta Detection Bots development and its 
 [Lesson 9: How (and Why) to Run Your Own Forta Scan Node](https://theblockchainsecuritymonk.substack.com/p/lesson-9-running-your-own-forta-scan)
 
 [Lesson 10: CI/CD for Forta Bots (Automating Tests & Deployments)](https://theblockchainsecuritymonk.substack.com/p/lesson-10-cicd-for-forta-bots-automating)
+
+[Lesson 11: Testing Forta Bots on Mainnet and Testnets](https://theblockchainsecuritymonk.substack.com/p/lesson-11-testing-forta-bots-on-mainnet)
+
+[Lesson 12: Alert Routing (From Bot to Slack, Discord and SIEM)](https://theblockchainsecuritymonk.substack.com/p/lesson-12-alert-routing-from-bot)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 []()
 
