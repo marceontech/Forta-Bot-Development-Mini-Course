@@ -1,4 +1,10 @@
 {
-  "name": "detect-high-eth-transfer-agent",
-  "version": "1.0.0"
+  "name": "detect-large-usdc-transfer-agent",
+  "version": "1.0.0",
+  "main": "src/agent.js",
+  "license": "MIT",
+  "dependencies": {
+    "forta-agent": "^0.1.34",
+    "ethers": "^5.7.2"
+  }
 }
