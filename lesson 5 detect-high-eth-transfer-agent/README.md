@@ -1,6 +1,6 @@
-# Detect Large Usdc Transfer Agent
+5# Detect Large Usdc Transfer Agent
 
-**Lesson**: Lesson 6
+**Lesson**: 5
 
 This Forta bot detects suspicious activity according to its purpose.
 
