@@ -1,5 +1,5 @@
 {
-  "name": "detect-large-usdc-transfer-agent",
+  "name": "detect-high-eth-transfer-agent",
   "version": "1.0.0",
   "main": "src/agent.js",
   "license": "MIT",
