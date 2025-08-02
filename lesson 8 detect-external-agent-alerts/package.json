@@ -1,0 +1,12 @@
+{
+  "name": "detect-external-agent-alerts",
+  "version": "1.0.0",
+  "description": "Forta bot to listen and respond to alerts from other Forta agents",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo 'Running tests...' && node test/agent.test.js"
+  },
+  "dependencies": {
+    "forta-agent": "^0.1.34"
+  }
+}
