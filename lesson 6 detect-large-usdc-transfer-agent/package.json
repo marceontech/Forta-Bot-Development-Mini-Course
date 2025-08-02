@@ -1,0 +1,13 @@
+{
+  "name": "detect-large-usdc-transfer-agent",
+  "version": "1.0.0",
+  "description": "Forta bot to detect USDC transfers >= 500,000 USDC",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo 'Running tests...' && node test/agent.test.js"
+  },
+  "dependencies": {
+    "forta-agent": "^0.1.34",
+    "ethers": "^5.7.2"
+  }
+}
