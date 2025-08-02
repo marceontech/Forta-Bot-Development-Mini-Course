@@ -1,0 +1,12 @@
+{
+  "name": "lesson37-ci-cd-forta-bot",
+  "version": "1.0.0",
+  "description": "Demo Forta bot with CI/CD integration using GitHub Actions",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo 'Running tests...' && node test/agent.test.js"
+  },
+  "dependencies": {
+    "forta-agent": "^0.1.34"
+  }
+}
