@@ -1,0 +1,12 @@
+{
+  "name": "detect-sandwich-attack-agent",
+  "version": "1.0.0",
+  "description": "Forta bot to detect sandwich attacks in DeFi transactions",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo 'Running tests...' && node test/agent.test.js"
+  },
+  "dependencies": {
+    "forta-agent": "^0.1.34"
+  }
+}
