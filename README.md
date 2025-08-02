@@ -36,9 +36,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 14: Bot Lifecycle and Versioning (Managing Your Agents Over Time)](https://theblockchainsecuritymonk.substack.com/p/lesson-14-bot-lifecycle-and-versioning) 
 
-[]()
+[Lesson 15: Multi-Chain Agents (How to Monitor Multiple Networks with One Bot)](https://theblockchainsecuritymonk.substack.com/p/lesson-15-multi-chain-agents-how)
 
-[]()
+[Lesson 16: Stateful Agents (Tracking Behavior Over Time)](https://theblockchainsecuritymonk.substack.com/p/lesson-16-stateful-agents-tracking)
 
 []()
 
