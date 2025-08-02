@@ -1,0 +1,12 @@
+{
+  "name": "detect-critical-upgrade-agent",
+  "version": "1.0.0",
+  "description": "Forta bot to detect critical smart contract upgrades",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo 'Running tests...' && node test/agent.test.js"
+  },
+  "dependencies": {
+    "forta-agent": "^0.1.34"
+  }
+}
