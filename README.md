@@ -40,6 +40,35 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 16: Stateful Agents (Tracking Behavior Over Time)](https://theblockchainsecuritymonk.substack.com/p/lesson-16-stateful-agents-tracking)
 
+[Lesson 17: CI/CD for Forta Bots (Automating Tests and Deployment)](https://theblockchainsecuritymonk.substack.com/p/lesson-17-cicd-for-forta-bots-automating)
+
+[Lesson 18: Testing Forta Bots (Unit Tests, Stateful Tests, and Fuzzing)](https://theblockchainsecuritymonk.substack.com/p/lesson-18-testing-forta-bots-unit)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+
+[]()
+[]()
+
+[]()
+[]()
+
+[]()
+
 []()
 
 []()
