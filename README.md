@@ -44,9 +44,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 18: Testing Forta Bots (Unit Tests, Stateful Tests, and Fuzzing)](https://theblockchainsecuritymonk.substack.com/p/lesson-18-testing-forta-bots-unit)
 
-[]()
+[Lesson 19: Gas Efficiency – Building Lightweight Bots](https://theblockchainsecuritymonk.substack.com/p/lesson-19-gas-efficiency-building)
 
-[]()
+[Lesson 20: Designing a Monitoring Strategy (What to Watch and Why)](https://theblockchainsecuritymonk.substack.com/p/lesson-20-designing-a-monitoring)
 
 []()
 
