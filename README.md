@@ -48,9 +48,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 20: Designing a Monitoring Strategy (What to Watch and Why)](https://theblockchainsecuritymonk.substack.com/p/lesson-20-designing-a-monitoring)
 
-[]()
+[Lesson 21: From Detection Ideas to Production Bots (Collaborative Development)](https://theblockchainsecuritymonk.substack.com/p/lesson-21-from-detection-ideas-to)
 
-[]()
+[Lesson 22: Alert Lifecycle (From Emission to Action)](https://theblockchainsecuritymonk.substack.com/p/lesson-22-alert-lifecycle-from-emission)
 
 []()
 
