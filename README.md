@@ -52,9 +52,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 22: Alert Lifecycle (From Emission to Action)](https://theblockchainsecuritymonk.substack.com/p/lesson-22-alert-lifecycle-from-emission)
 
-[]()
+[Lesson 23: Routing Forta Alerts to Slack, PagerDuty, and SIEM](https://theblockchainsecuritymonk.substack.com/p/lesson-23-routing-forta-alerts-to)
 
-[]()
+[Lesson 24: Bot Performance Monitoring (Uptime, Latency, Failures)](https://theblockchainsecuritymonk.substack.com/p/lesson-24-bot-performance-monitoring)
 
 []()
 
