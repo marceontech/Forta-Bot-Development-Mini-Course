@@ -56,12 +56,14 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 24: Bot Performance Monitoring (Uptime, Latency, Failures)](https://theblockchainsecuritymonk.substack.com/p/lesson-24-bot-performance-monitoring)
 
+[Lesson 25: Advanced Bot Testing (Simulations, Edge Cases & Fuzzing)](https://theblockchainsecuritymonk.substack.com/p/lesson-25-advanced-bot-testing-simulations)
+
 []()
 
 []()
-[]()
 
 []()
+
 []()
 
 []()
