@@ -58,7 +58,7 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 25: Advanced Bot Testing (Simulations, Edge Cases & Fuzzing)](https://theblockchainsecuritymonk.substack.com/p/lesson-25-advanced-bot-testing-simulations)
 
-[]()
+[Lesson 26: Cross-Chain Bot Architecture (Watching More Than One Chain)](https://theblockchainsecuritymonk.substack.com/p/lesson-26-cross-chain-bot-architecture)
 
 []()
 
