@@ -60,7 +60,7 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 26: Cross-Chain Bot Architecture (Watching More Than One Chain)](https://theblockchainsecuritymonk.substack.com/p/lesson-26-cross-chain-bot-architecture)
 
-[]()
+[Lesson 27: Alert Routing (From Forta to Discord, SIEMs, and Dashboards)](https://theblockchainsecuritymonk.substack.com/p/lesson-27-alert-routing-from-forta)
 
 []()
 
