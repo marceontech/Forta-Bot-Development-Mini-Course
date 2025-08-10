@@ -62,7 +62,7 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 27: Alert Routing (From Forta to Discord, SIEMs, and Dashboards)](https://theblockchainsecuritymonk.substack.com/p/lesson-27-alert-routing-from-forta)
 
-[]()
+[Lesson 28: Monitoring Bot Performance (Uptime, Gas Usage & Health Checks)](https://theblockchainsecuritymonk.substack.com/p/lesson-28-monitoring-bot-performance)
 
 []()
 
