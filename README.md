@@ -64,9 +64,9 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 28: Monitoring Bot Performance (Uptime, Gas Usage & Health Checks)](https://theblockchainsecuritymonk.substack.com/p/lesson-28-monitoring-bot-performance)
 
-[]()
+[Lesson 29: Bot CI/CD (Automate, Version & Secure Your Agent Pipelines)](https://theblockchainsecuritymonk.substack.com/p/lesson-29-bot-cicd-automate-version)
 
-[]()
+[Lesson 30: Live Threats (Recreating Real Exploits with Forta Bots)](https://theblockchainsecuritymonk.substack.com/p/lesson-30-live-threats-recreating)
 []()
 
 []()
