@@ -67,9 +67,14 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 [Lesson 29: Bot CI/CD (Automate, Version & Secure Your Agent Pipelines)](https://theblockchainsecuritymonk.substack.com/p/lesson-29-bot-cicd-automate-version)
 
 [Lesson 30: Live Threats (Recreating Real Exploits with Forta Bots)](https://theblockchainsecuritymonk.substack.com/p/lesson-30-live-threats-recreating)
-[]()
 
-[]()
+[Lesson 31: Whale Watching (Detecting Suspicious Large Transfers & Trader Behaviors)](https://theblockchainsecuritymonk.substack.com/p/lesson-31-whale-watching-detecting)
+
+[Lesson 32: Governance & Admin Watchdogs (Monitoring Ownership and Critical Function Calls)](https://theblockchainsecuritymonk.substack.com/p/lesson-32-governance-and-admin-watchdogs)
+
+[Lesson 33: Flash Loan Surveillance (Catching Exploits in Milliseconds)](https://theblockchainsecuritymonk.substack.com/p/lesson-33-flash-loan-surveillance)
+
+[Lesson 34: Malicious Contracts & Scam Token Surveillance (Protecting Your Users from Social Engineering)](https://theblockchainsecuritymonk.substack.com/p/lesson-34-malicious-contracts-and)
 
 []()
 
