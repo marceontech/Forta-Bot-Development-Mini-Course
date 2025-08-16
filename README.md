@@ -76,6 +76,8 @@ The main source used for this course has been taken from [FORTA DOCS](https://do
 
 [Lesson 34: Malicious Contracts & Scam Token Surveillance (Protecting Your Users from Social Engineering)](https://theblockchainsecuritymonk.substack.com/p/lesson-34-malicious-contracts-and)
 
-[]()
+[Lesson 35: MEV & Front-Running Bots (Detecting Exploitation in the Mempool)](https://theblockchainsecuritymonk.substack.com/p/lesson-35-mev-and-front-running-bots?utm_source=profile&utm_medium=reader2)
+
+[Lesson 36: Final Exercise (Building a Full Security Monitoring Stack from Scratch)](https://theblockchainsecuritymonk.substack.com/p/lesson-36-final-exercise-building?utm_source=profile&utm_medium=reader2)
 
 []()
